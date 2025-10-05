@@ -67,5 +67,4 @@ MIT License
 ## Author
 
 **Sagar Uppal**
-
 GitHub: Sagar-Uppal-26(https://github.com/Sagar-Uppal-26)
